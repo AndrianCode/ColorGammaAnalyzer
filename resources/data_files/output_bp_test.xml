@@ -1,0 +1,8 @@
+<ranges all_images="1">
+  <range start="0.0" end="0.5">
+    <images_count>0</images_count>
+  </range>
+  <range start="0.5" end="1.0">
+    <images_count>1</images_count>
+  </range>
+</ranges>

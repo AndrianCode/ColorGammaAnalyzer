@@ -1,0 +1,32 @@
+<ranges all_images="14">
+  <range start="0.0" end="0.1">
+    <images_count>1</images_count>
+  </range>
+  <range start="0.1" end="0.2">
+    <images_count>0</images_count>
+  </range>
+  <range start="0.2" end="0.3">
+    <images_count>0</images_count>
+  </range>
+  <range start="0.3" end="0.4">
+    <images_count>0</images_count>
+  </range>
+  <range start="0.4" end="0.5">
+    <images_count>0</images_count>
+  </range>
+  <range start="0.5" end="0.6">
+    <images_count>0</images_count>
+  </range>
+  <range start="0.6" end="0.7">
+    <images_count>1</images_count>
+  </range>
+  <range start="0.7" end="0.8">
+    <images_count>2</images_count>
+  </range>
+  <range start="0.8" end="0.9">
+    <images_count>4</images_count>
+  </range>
+  <range start="0.9" end="1.0">
+    <images_count>6</images_count>
+  </range>
+</ranges>
